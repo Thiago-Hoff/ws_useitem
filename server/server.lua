@@ -1,8 +1,8 @@
 RegisterServerEvent("ws_useitem:daritem")
 AddEventHandler("ws_useitem:daritem", function(id, item, quantidade)
   print(id)
-  print(item)
-  print(quantidade)
+  print('aaaaa2')
+  print('aaaaa')
   TriggerClientEvent("ws_useitem:daritem", id, source, item, quantidade)
   
 
