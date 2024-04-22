@@ -12,7 +12,7 @@ cosumiveis = {
     },
 }
 
-
+teste = 123 
 usando = nil 
 duracao = 0 
 item_hand = nil
