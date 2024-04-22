@@ -12,6 +12,7 @@ cosumiveis = {
     },
 }
 
+print('teste de edição')
 
 usando = nil 
 duracao = 0 
