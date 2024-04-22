@@ -15,6 +15,7 @@ cosumiveis = {
 print('teste de edição - editado pelo github')
 print('force update')
 
+teste = 123 
 usando = nil 
 duracao = 0 
 item_hand = nil
