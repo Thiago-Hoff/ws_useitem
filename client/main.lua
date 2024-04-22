@@ -13,6 +13,7 @@ cosumiveis = {
 }
 
 print('teste de edição - editado pelo github')
+print('force update')
 
 usando = nil 
 duracao = 0 
