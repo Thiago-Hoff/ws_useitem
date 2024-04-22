@@ -12,7 +12,7 @@ cosumiveis = {
     },
 }
 
-print('teste de edição')
+print('teste de edição - editado pelo github')
 
 usando = nil 
 duracao = 0 
